@@ -120,7 +120,7 @@ Bills can be printed on screen or downloaded as a **PDF** (WeasyPrint), and admi
 
 ---
 
-## Roles & Access Control
+## Roles & Access Control 
 
 | Feature | admin | moderator | viewer |
 | --- | :---: | :---: | :---: |
